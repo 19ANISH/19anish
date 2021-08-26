@@ -1,5 +1,5 @@
 <h2 align='center'> 
- Hello Folks! <img src="https://in.images.search.yahoo.com/search/images;_ylt=AwrPhShuMydh0SAAY0e7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=hi+gif&fr2=piv-web&type=E211IN885G0&fr=mcafee#id=97&iurl=https%3A%2F%2Fmedia.tenor.co%2Fimages%2Ff22cadc4373dd4346ab43fe2d38d0495%2Fraw&action=click" width="33px">
+ Hello Folks! <img src="Waving_person.gif" width="99px">
  I'm   <a href="https://github.com/19ANISH" target="_blank"> Anish Rajwani</a>
 </h2>
 
