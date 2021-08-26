@@ -1,5 +1,5 @@
 <h2 align='center'> 
- Hello Folks! <img src="https://raw.githubusercontent.com/10adnan75/10adnan75/master/assets/hi.gif" width="33px">
+ Hello Folks! <img src="Waving_person.gif" width="99px">
  I'm   <a href="https://github.com/19ANISH" target="_blank"> Anish Rajwani</a>
 </h2>
 
