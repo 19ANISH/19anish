@@ -4,7 +4,7 @@
 <h2 align='center'>
  I'm   <a href="https://github.com/19ANISH" target="_blank"> Anish Rajwani</a>
 </h2>
-
+[![@19anish's Holopin board](https://holopin.me/19anish)](https://holopin.io/@19anish)
 <p align='center'>
  <a href="https://www.linkedin.com/in/anish-rajwani-6852341b1" target="_blank">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
@@ -16,4 +16,3 @@
 <p align='center'>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=19ANISH&theme=gotham&hide_border=true">
 </p>
-[![@19anish's Holopin board](https://holopin.me/19anish)](https://holopin.io/@19anish)
